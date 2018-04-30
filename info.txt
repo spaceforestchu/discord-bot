@@ -1,9 +1,9 @@
 Client ID: 422575548439592961
-Client Secret: vGlpV57TQiMcZBBsRmt2dGWadTTKEP9p
+Client Secret: PLGxcQd-K5_12CAWonu61GdB054SfvQZ
 
 https://discordapp.com/api/oauth2/authorize?client_id=422575548439592961&scope=bot&permissions=1
 
 
 APP BOT USER
 Username: Doug Bot#1123
-Token:NDIyNTc1NTQ4NDM5NTkyOTYx.DYd1IQ.7ZHb8_s3pr0nETadsT07BPzktgM
+Token:NDIyNTc1NTQ4NDM5NTkyOTYx.Dck4Rg.ljY173l_QF-aDRJui8lDd4MzdZg

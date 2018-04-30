@@ -1,5 +1,6 @@
 const commando = require('discord.js-commando');
 const bot = new commando.Client();
+const { TOKEN } = require('./secret');
 
 bot.on('message', (message) => {
   if (message.content == "ping") {
@@ -15,4 +16,4 @@ bot.registry.registerGroup('random', 'Random');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + '/commands');
 
-bot.login('NDIyNTc1NTQ4NDM5NTkyOTYx.DYd1IQ.7ZHb8_s3pr0nETadsT07BPzktgM');
+bot.login(TOKEN);
